@@ -12,8 +12,8 @@ Sample project with automated dependency updates for Cocoapods using Renovatebot
 4. Connect Renovate using [renovate](https://github.com/marketplace/renovate) to the repo [sample-realm-ios-project-cocoapods-renovate-demo](https://github.com/asoneji/sample-realm-ios-project-cocoapods-renovate-demo).
 5. Renovate created a [pr 1](https://github.com/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/pull/1) with renovate config which I merged.
 6. Renovate created a [pr 2](https://github.com/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/pull/2) to Update dependency Analytics 3.8.1 to 3.9.0.
-   * [Artifact file update failure](https://github.com/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/pull/2#issuecomment-649812927)
-   * Job log [here](https://app.renovatebot.com/dashboard#github/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/194341121)
+   * Successfully dependency update for renovate
+   * Job log [here](https://app.renovatebot.com/dashboard#github/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/195262683)
 7. Add Realm
    * Added Dependency:
      * `pod 'RealmSwift', '5.0.3'`
