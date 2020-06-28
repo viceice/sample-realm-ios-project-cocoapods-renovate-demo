@@ -23,4 +23,4 @@ Sample project with automated dependency updates for Cocoapods using Renovatebot
    * Job log [here](https://app.renovatebot.com/dashboard#github/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/195262683)
 
 
-**Note**: If I remove `RealmSwift` from podfile the [pr 2](https://github.com/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/pull/2) again will be have successfully dependency update for renovate bot. Addeding realm impacts all PR's.
+**Note**: If I remove `RealmSwift` from podfile the [pr 2](https://github.com/asoneji/sample-realm-ios-project-cocoapods-renovate-demo/pull/2) again will behave successfully dependency update for renovate bot. Adding realm impacts all PR's.
